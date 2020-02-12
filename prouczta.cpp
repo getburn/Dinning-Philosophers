@@ -1,10 +1,8 @@
 //
-//                                  Problem ucztujących filozofów!
+//                                 Dinning Philosophers Problem!
 //                                          prouczta.cpp
 //  
 //
-//                                Created by Marcin  on 13/01/2020.
-//          Marcin Dubinski, informatyka (WI), tryb niestacjonarny, semestr III, nr albumu 133825.
 //
 
 #include <stdlib.h>
